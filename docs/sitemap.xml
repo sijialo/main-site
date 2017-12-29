@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/storyboards/story3/</loc>
+  </url>
+  
+  <url>
+    <loc>/storyboards/story1/</loc>
+  </url>
+  
+  <url>
+    <loc>/storyboards/story2/</loc>
+  </url>
+  
+  <url>
+    <loc>/sketches/sketch1/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/sketches/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/storyboards/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

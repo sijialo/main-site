@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sketches on MOJO</title>
+    <link>/sketches/</link>
+    <description>Recent content in Sketches on MOJO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>rosejoyrose@domain.com (Sijia Luo)</managingEditor>
+    <webMaster>rosejoyrose@domain.com (Sijia Luo)</webMaster>
+    
+	<atom:link href="/sketches/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/sketches/sketch1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>rosejoyrose@domain.com (Sijia Luo)</author>
+      <guid>/sketches/sketch1/</guid>
+      <description>   1st
+      2nd
+      3rd
+      4th
+      5th
+      6th
+      7th
+      8th
+     </description>
+    </item>
+    
+  </channel>
+</rss>

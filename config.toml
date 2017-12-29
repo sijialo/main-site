@@ -1,0 +1,88 @@
+baseurl = "/"
+DefaultContentLanguage = "en"
+
+title = "MOJO"
+themesDir ="themes"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+publishDir ="docs"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Sijia Luo"
+  description="This is a site for Sijia Luo Mojo"
+  logo = "img/icon.jpg"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Sijia Luo"
+  email = "rosejoyrose@domain.com"
+  instagram = "mojosplus"
+  #youtube = "user/username" # or channel/channelname
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+
+[[menu.main]]
+    identifier = "storyboards"
+    name = "Storyboards"
+    weight = 2
+
+[[menu.main]]
+    parent = "storyboards"
+    name = "Teen Titans"
+    url = "storyboards/story3"
+    weight = 1
+
+[[menu.main]]
+    parent = "storyboards"
+    name = "TMNT-Comedy"
+    url = "storyboards/story1"
+    weight = 2
+
+[[menu.main]]
+    parent = "storyboards"
+    name = "TMNT-Drama"
+        url = "storyboards/story2"
+    weight = 3
+
+
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 5
+
+[[menu.main]]
+    identifier = "sketches"
+    name = "Sketches"
+    url = "sketches/sketch1"
+    weight = 3
+
+
+
+[blackfriday]
+   plainIDAnchors = true
+   hrefTargetBlank = true
