@@ -15,7 +15,15 @@
   </url>
   
   <url>
+    <loc>/comics/comics1/</loc>
+  </url>
+  
+  <url>
     <loc>/sketches/sketch1/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
@@ -24,7 +32,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/comics/</loc>
     <priority>0</priority>
   </url>
   

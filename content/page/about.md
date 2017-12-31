@@ -6,12 +6,11 @@ draft : false
 ---
 <center>[Download Resume](/files/resume.pdf)</center>
 
-My name is Sijia Luo. My passion is story telling.
+My name is Sijia Luo 罗斯嘉. My passion is story telling.
 
 - Born in China, and live at Los Angeles now
-- UCLA(University of California, Los Angeles) --Film and TelevisionMFA, USA
-- Beijing Film Academy 北京电影学院--Animation MFA, CHINA
-- US Secretary of [Asia-Pacific Animation Association](http://apaa.cc/) (APAA)
+- UCLA(University of California, Los Angeles) --Film and Television MFA, USA
+- Beijing Film Academy 北京电影学院--Animation, CHINA
 
 
 __Films:__

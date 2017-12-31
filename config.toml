@@ -35,7 +35,7 @@ publishDir ="docs"
 
 [Author]
   name = "Sijia Luo"
-  email = "rosejoyrose@domain.com"
+  email = " mojosplus@gmail.com"
   instagram = "mojosplus"
   #youtube = "user/username" # or channel/channelname
 
@@ -76,10 +76,14 @@ publishDir ="docs"
     weight = 5
 
 [[menu.main]]
-    identifier = "sketches"
     name = "Sketches"
     url = "sketches/sketch1"
     weight = 3
+
+[[menu.main]]
+    name = "Comics"
+    url = "comics/comics1"
+    weight = 4    
 
 
 

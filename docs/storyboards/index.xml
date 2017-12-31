@@ -5,8 +5,8 @@
     <link>/storyboards/</link>
     <description>Recent content in Storyboards on MOJO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>rosejoyrose@domain.com (Sijia Luo)</managingEditor>
-    <webMaster>rosejoyrose@domain.com (Sijia Luo)</webMaster>
+    <managingEditor> mojosplus@gmail.com (Sijia Luo)</managingEditor>
+    <webMaster> mojosplus@gmail.com (Sijia Luo)</webMaster>
     
 	<atom:link href="/storyboards/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
       <title>TEEN TITANS</title>
       <link>/storyboards/story3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>rosejoyrose@domain.com (Sijia Luo)</author>
+      <author> mojosplus@gmail.com (Sijia Luo)</author>
       <guid>/storyboards/story3/</guid>
       <description>0th
       02 01 01
@@ -32,7 +32,7 @@
       <title>TMNT-COMEDY</title>
       <link>/storyboards/story1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>rosejoyrose@domain.com (Sijia Luo)</author>
+      <author> mojosplus@gmail.com (Sijia Luo)</author>
       <guid>/storyboards/story1/</guid>
       <description>Tmnt 0000
       Tmnt 0001 1
@@ -49,17 +49,16 @@
       <title>TMNT-DRAMA</title>
       <link>/storyboards/story2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>rosejoyrose@domain.com (Sijia Luo)</author>
+      <author> mojosplus@gmail.com (Sijia Luo)</author>
       <guid>/storyboards/story2/</guid>
       <description>0th
       Sewer 001 1
       Sewer 002 1
       Sewer 002 2
       Sewer 002 3
-      Sewer 004 1
-      Sewer 004 2
-      Sewer 004 3
-      Sewer 004 4</description>
+      Sewer 003 1 1
+      Sewer 003 2 1
+      Sewer 003 2 2</description>
     </item>
     
   </channel>
