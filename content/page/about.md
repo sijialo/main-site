@@ -52,7 +52,7 @@ Interview|Beijing TV Channel| 10:22 mins | China | Sep 2 6pm 2006|
 
 __Published Comics:__
 
-Comics|Publishing House|Country|
+Comics|Publisher House|Country|
 -----|-------|------|
 My Friend's Mom|Cartoon King| China|
 The Hat|Cartoon King|China|
