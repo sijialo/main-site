@@ -27,7 +27,7 @@ __Animated Short: [Kidnap](https://www.youtube.com/watch?v=zddj4hjLvHM) (03:55 m
 
  Award  | Festival | Country |
  ------------- | ------------- | --------|
- Rising Start Award|Canada International Film Festival|Canada| 
+ Rising Star Award|Canada International Film Festival|Canada| 
  Best Animation|Prince Edward Island International Film Festival|Canada|
  Best Animation|17th WOW Film Festival|Australia|
  Cart-ost Award|4th Janison Short Sharp Film Festival|Australia|
