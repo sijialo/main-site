@@ -56,11 +56,7 @@ publishDir ="docs"
     url = "storyboards/story3"
     weight = 1
 
-[[menu.main]]
-    parent = "storyboards"
-    name = "TMNT-Comedy"
-    url = "storyboards/story1"
-    weight = 2
+
 
 [[menu.main]]
     parent = "storyboards"
